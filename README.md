@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohdRashid01
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Jenkins, Github, Docker, Kubernetes, Prometheus, Linux, Shell Script, Networking, Azure/GCP
+- 👀 I’m a DevOps Engg
+- 🌱 I’m currently working on Jenkins, Github, Docker, Kubernetes, Prometheus, Linux, Shell Script, Networking, Azure/GCP
 - 💞️ I’m looking to collaborate on Open Source, Development, DevSecOps
 - 📫 How to reach me rashidmd777@gmail.com
 
