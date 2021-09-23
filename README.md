@@ -10,7 +10,7 @@ This is the place where I opensource stuff and break things
 
 :link: Connect with me 
 
-
+https://gist.github.com/MohdRashid01
 
 <!---
 MohdRashid01/MohdRashid01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
