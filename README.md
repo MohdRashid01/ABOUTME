@@ -1,5 +1,7 @@
 Hi there :wave:
 
+Hey ,  I'm Kunal!
+
 This is the place where I opensource stuff and break things 
 
 - 👋 Hi, I’m @MohdRashid01  
@@ -11,8 +13,6 @@ This is the place where I opensource stuff and break things
 :link: Connect with me 
 
 https://gist.github.com/MohdRashid01
-
-<a href="https://app.daily.dev/iammohdrashid"><img src="https://api.daily.dev/devcards/855ce3c1c8984e61a8ae7e130cb9486a.png?r=xku" width="250" alt="Mohd Rashid's Dev Card"/></a>
 
 <!---
 MohdRashid01/MohdRashid01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
