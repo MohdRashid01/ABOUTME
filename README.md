@@ -1,6 +1,8 @@
 Hi there :wave:
 
-Hey ,  I'm Kunal!
+Hey , ![This is Image](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif) I'm Rashid!
+
+https://dev.to/mohdrashid01   
 
 This is the place where I opensource stuff and break things 
 
