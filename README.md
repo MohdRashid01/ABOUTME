@@ -1,6 +1,8 @@
 Hi there :wave:
 
-Hey , ![This is Image](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif) I'm Rashid!
+Hey , <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50" height="50" /> I'm Rashid!
+
+
 
 https://dev.to/mohdrashid01   
 
