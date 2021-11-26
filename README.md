@@ -1,18 +1,28 @@
 **Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="30" />, I'm Rashid!**
 
+---
+
+  
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" width="30" height="30" />, https://www.linkedin.com/in/iammohdrashid/ 
+                                                                                                                    
+<img src="https://img.icons8.com/material-sharp/24/000000/twitter.png"/>
+
+
+
+**About Me** :rocket:
+
+:mortar_board: I’m an Open-Source enthusiast & a Bachelors in Electronics Communication & Engineering.
+
+:technologist: I am passionate about Kubernetes, DevOps & I enjoy learning new things. 
+
+**My Experiences** :raised_hands:
+
+
 
 
 https://dev.to/mohdrashid01   
 
-This is the place where I opensource stuff and break things 
 
-- 👋 Hi, I’m @MohdRashid01  
-- 👀 I’m a DevOps Engg
-- 🌱 I’m currently working on Jenkins CI/CD, AKS, Github, Github Action, Docker, Kubernetes, Prometheus, Linux, Shell Script, Networking, Azure/GCP, VM, RabbitMQ, Postgres.
-- 💞️ I’m looking to collaborate on Open Source, Development, DevSecOps
-- 📫 How to reach me rashidmd777@gmail.com
-
-:link: Connect with me 
 
 https://gist.github.com/MohdRashid01
 
