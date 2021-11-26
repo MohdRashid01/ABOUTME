@@ -16,6 +16,8 @@ This is the place where I opensource stuff and break things
 
 https://gist.github.com/MohdRashid01
 
+[![Mohd Rashid GitHub stats](https://github-readme-stats.vercel.app/api?username=mohdrashid01)](https://github.com/mohdrashid01/github-readme-stats)
+
 <!---
 MohdRashid01/MohdRashid01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
