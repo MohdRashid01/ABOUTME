@@ -1,10 +1,16 @@
 **Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="30" />, I'm Rashid!**
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="170"/>
+</div>
+
+                                                                                                                             
 
 
-  
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" width="30" height="30" /> 
-                                                                                                                    
-<img src="https://img.icons8.com/material-sharp/24/000000/twitter.png"/>
+
+
+
+
+
 
 
 
@@ -12,7 +18,7 @@
 
 :mortar_board: I’m an Open-Source enthusiast & a Bachelors in Electronics Communication & Engineering.
 
-:technologist: I am passionate about Kubernetes, DevOps & I enjoy learning new things. 
+:technologist: I am passionate about Kubernetes, Docker, Jenkins CI/CD, Git/Github, Github Action, ELK Stack, Monitoring Prometheus/Grafana, Azure, GCP, Azure DevOps, Shell Scripts, Ansible, Terreform & I enjoy learning new things. 
 
 **My Experiences** :raised_hands:
 
