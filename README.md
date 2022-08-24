@@ -1,7 +1,6 @@
 <!-- BLOG-POST-LIST:START -->
 **Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="30" />, I'm Mohd Rashid!**
 <div id="header" align="left">
-  <h3 align="left">A passionate DevOps Engineer from India</h3>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="170"/>
 </div>
 <div id="badges"> 
