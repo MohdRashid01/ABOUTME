@@ -19,8 +19,6 @@
 </div>  
    <img src="https://komarev.com/ghpvc/?username=mohdrashid01&style=flat-square&color=blue" alt=""/>
 
-
-
 ---
 **About Me** :rocket:
 
@@ -35,7 +33,7 @@
 
 ---
 <h1 align="center">Hi 👋, I'm Mohd Rashid</h1>
-<h3 align="center">A passionate DevOps Enggineer from India</h3>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdrashid01" alt="mohdrashid01" /></a> </p>
 
