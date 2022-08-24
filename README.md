@@ -32,7 +32,7 @@
 - :mailbox:Look at LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/iammohdrashidl)
 
 ---
-
+GitHub Stat Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdrashid01" alt="mohdrashid01" /></a> </p>
 
 ---
